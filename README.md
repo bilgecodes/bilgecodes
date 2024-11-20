@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌿 I'm a Biochemistry graduate working on my master's in plant physiology!
 - 💻 I’m currently learning Python and R 
-⚡ Fun fact: While studying, I wanted to be a bioinformatician in protein structure and conformation. I was also interested in lncRNA in human diseases. 
+-⚡ Fun fact: While studying, I wanted to be a bioinformatician in protein structure and conformation. I was also interested in lncRNA in human diseases. 
 - 📫 How to reach me: 
 - 🐦 
 - 🌱
